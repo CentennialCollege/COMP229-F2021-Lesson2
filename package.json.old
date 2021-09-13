@@ -1,0 +1,14 @@
+{
+  "name": "comp229-f2021-lesson2",
+  "version": "0.0.1",
+  "description": "Demo Project for COMP229 Lesson 2",
+  "main": "index.js",
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@popperjs/core": "^2.10.1",
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0"
+  }
+}
